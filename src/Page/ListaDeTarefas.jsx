@@ -5,7 +5,8 @@ import { StyleListaDeTarefas } from "./ListaDeTarefas.js";
 const ListaDeTarefas = () => {
   return (
     <StyleListaDeTarefas>
-      <Header/>            
+      <Header/>  
+      <Footer/>          
     </StyleListaDeTarefas>
   )
 }
